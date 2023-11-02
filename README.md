@@ -4,4 +4,4 @@ Bu uygulama, Expo ve React Native kullanılarak geliştirdiğim, Borsa İstanbul
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://r.resimlink.com/XBV17tz.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/6rh84ac.png)
